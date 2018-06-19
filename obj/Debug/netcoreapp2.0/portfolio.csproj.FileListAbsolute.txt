@@ -1,0 +1,10 @@
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/bin/Debug/netcoreapp2.0/portfolio.deps.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/bin/Debug/netcoreapp2.0/portfolio.runtimeconfig.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/bin/Debug/netcoreapp2.0/portfolio.runtimeconfig.dev.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/bin/Debug/netcoreapp2.0/portfolio.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/bin/Debug/netcoreapp2.0/portfolio.pdb
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/obj/Debug/netcoreapp2.0/portfolio.csproj.CoreCompileInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/obj/Debug/netcoreapp2.0/portfolio.AssemblyInfoInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/obj/Debug/netcoreapp2.0/portfolio.AssemblyInfo.cs
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/obj/Debug/netcoreapp2.0/portfolio.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/CodingDojo/C#Assignments/portfolio/obj/Debug/netcoreapp2.0/portfolio.pdb
